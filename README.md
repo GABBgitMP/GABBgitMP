@@ -1,4 +1,4 @@
-<h1 align="center"> ¡Hola! Soy Gabriel 👋 </h1>
+<h1 align="center"> ¡Hola! Soy Gabriel  </h1>
 
 
 >Cada dispositivo tiene una historia de lógica y arquitectura que contar. Mi objetivo es aprender a leerla, entenderla y, eventualmente, escribir la mía.
