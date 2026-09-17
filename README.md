@@ -31,6 +31,8 @@
 ### MIS REDES SOCIALES
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabbb.ito)    [![Discord](https://img.shields.io/badge/Discord-@tw_jmp-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/780924308411121664) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-gabriel-martínez-padron-8179ab437) 
 
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/Gabin)
+
 ##
 
 ### GOALS
